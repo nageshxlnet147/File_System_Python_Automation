@@ -4,9 +4,9 @@ source_path = '/home/Python_Automation'         # Parent path
 
 
 dt = {
-    'language':['Python', 'C', 'Java', 'Go'],
-    'Laptop' : ['LG', 'Samsung', 'Asus','Lenovo','Dell', 'HP'],
-    'Cost':['ONE','TWO','THREE','FOUR']
+    'language':['Python.py', 'C.c', 'Java.java', 'Go.go'],
+    'Laptop' : ['LG.lg', 'Samsung.sg', 'Asus.as','Lenovo.le','Dell.dl', 'HP.h'],
+    'Cost':['ONE.txt','TWO.txt','THREE.txt','FOUR.txt']
 }
 try:
     folder_rename_count = 1

@@ -1,4 +1,6 @@
 # File_System_Python_Automation
+Note: ** Data should be exist in the parent path already ** 
+
 Steps to Follow:
 
 1. Source Path required
