@@ -1,5 +1,5 @@
 # File_System_Python_Automation
-Note: ** Data should be exist in the parent path already ** 
+Note: ** Data should be exist in the parent path already but without format ** 
 
 Steps to Follow:
 
